@@ -1,0 +1,69 @@
+.card:hover{
+    transform:scale(1.1);
+}
+.card{
+    transition: all 0.4s;
+    margin-top:10ex;
+}
+
+.cards{        
+    transition: all 0.4s;
+    margin-top:10ex;
+}
+
+.d-block{
+    transition: transform 2s ease;
+}
+.nav-link{
+    transition: all 0.4s;
+}
+.nav-link:hover{
+    transform: scale(1.2);
+    
+}
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.carousel-inner{
+    height: 100ex;
+
+}
+.button{
+    margin-top: 15ex;
+}
+.img{
+    margin-left: 31ex;
+    margin-top: 10ex;
+    width:100%;
+}
+
+.hidden {
+  display: none;
+}
+.col-4{
+float: left;
+
+}
+.nav-link1{
+    display: block;
+    
+    text-decoration: none;
+    transition: all 0.4s;
+}
+.nav-link1:hover{
+    padding: 2ex;
+    color:rgb(0, 0, 0);
+}
+
+.col-8{
+    margin-left:2ex;
+    float: left;
+}
+.register{
+    
+    border-style:solid;
+    border-radius:15px ;
+    border-width: 1px;
+    height:200ex;
+    border-color:darkgray;
+}
